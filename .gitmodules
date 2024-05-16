@@ -1,6 +1,6 @@
 [submodule "dekor-frontend"]
 	path = dekor-frontend
-	url = git@github.com:hai-nguyen-chi/dekor.git
+	url = git@github.com:hai-nguyen-chi/dekor-frontend.git
 [submodule "dekor-backend"]
 	path = dekor-backend
-	url = git@github.com:hai-nguyen-chi/dekor.git
+	url = git@github.com:hai-nguyen-chi/dekor-backend.git
